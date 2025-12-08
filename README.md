@@ -6,7 +6,7 @@ Quickly update the `mod_version` inside `.scs`, `.zip`, or `.rar` mod packages a
 
 ## Features
 - Drag & drop support
-- Accepts precise versions (e.g., `1.50.2.15`) or `5.16.*`
+- Accepts precise versions (e.g., `1.50.2.15` or `5.16.*`)
 - Always outputs a clean `.scs` file with version suffix
 - Standalone Windows executable (no Python required)
 
