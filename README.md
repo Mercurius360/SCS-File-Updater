@@ -10,14 +10,14 @@ Quickly update the `mod_version` inside `.scs`, `.zip`, or `.rar` mod packages a
 
 ## Features
 - Drag & drop support
-- Accepts precise versions (e.g., `1.50.2.15` or `5.16.*`)
+- Accepts precise versions (e.g., `1.57.*` or `1.58.*`)
 - Always outputs a clean `.scs` file with version suffix
 - Standalone Windows executable (no Python required)
 
 ## Usage
-1. Run `SCS_File_Updater.exe`
-2. Select your mod archive
+1. Run `SCS File Updater.exe`
+2. Select or drag your your mod archive
 3. Type the new version
-4. Click **Update → New .scs**
+4. Click **Update** to create a new .scs
 
 The new file will appear in the same folder with `_vX_Y_Z` appended.
