@@ -2,6 +2,10 @@
 
 Professional tool for Euro Truck Simulator 2 and American Truck Simulator modders.
 
+<img src="assets/icon.png" width="200" align="center"/>
+
+# SCS File Updater
+
 Quickly update the `mod_version` inside `.scs`, `.zip`, or `.rar` mod packages and get a correctly named output file.
 
 ## Features
