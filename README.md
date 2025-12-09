@@ -21,3 +21,9 @@ Quickly update the `compatible_versions` inside `.scs`, `.zip`, or `.rar` mod pa
 4. Click **Update** to create a new .scs
 
 The new file will appear in the same folder with `_vX_Y_Z` appended.
+
+## Requirements
+- WinRAR or 7zip
+
+## Updates
+- v1.0.1 - Allows multiple files to be updated at the same time
