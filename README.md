@@ -23,7 +23,7 @@ Quickly update the `compatible_versions` inside `.scs`, `.zip`, or `.rar` mod pa
 The new file will appear in the same folder with `_vX_Y_Z` appended.
 
 ## Requirements
-- WinRAR or 7zip
+- [WinRAR]([url](https://www.win-rar.com/download.html?&L=0)) or [7zip]([url](https://www.7-zip.org/download.html))
 
 ## Updates
 - v1.0.1 - Allows multiple files to be updated at the same time
